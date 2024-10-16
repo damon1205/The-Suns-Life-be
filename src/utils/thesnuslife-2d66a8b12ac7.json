@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "thesnuslife-1699246872231",
+  "private_key_id": "2d66a8b12ac70a0913bf7e24877e49a36ca36c21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC69L2Nhka/TAHR\nJxIy/86JnrX1ge0mLh9uhl+S0W07mW3Zwt8LM1jbUpkszigZp8vBJAG57kJ3WkKH\nkhTDnHiIiXW0Mb6L1Xr7knUo969knHoHQf9wFIdoDuNz1ZLJnmwDIaH6Hg/DyQXq\nn89CkXbv0KTqLX8fBOHWNeNiUMpTDm3RXX/kGma1xy5qcsvMc7pZ3gaAVcLnsuqg\nz/ATGdjQfeX63qoX2qXGCOHb9XbBFdX2qTMhe9v2phELXyr/fD8axTw5bnJ1AwoR\ng72sg1W3y71R3OAsSnNWspmoYIldXrnJubdOQv4On7WT52EfCOV8jsBTB742smyS\nB5mC1lpLAgMBAAECggEALCb/myxSifwT08bT6/pw1xyF4YjBLoqm/q26ZYyTLQej\no1F75oPGYOmlZij73G891gvAYp5L0S8eVjEgOUA7UReRljBHTXPp2v7wL3ArWmoA\nAbXK8zfN8LvPaLxQMdB5ttWbENxHodfYT1xVkOWUvrc6M1nyUyuOgE3yuPXWin2O\njijNbEzPoWtxzPivr21xM4SKrYHu0+VcJPoD043xCS7+XTNZwev3KDImKbTv59uy\nCc4076y73nLLK6Fs3dligP8ojTK0r/Os7fvWOpJktJpOimuX4xB4EZAAE0nzVcA5\nS8+7wXc4LIiHZqCQRnvjqvYSmKdoUzbOs866CEuxRQKBgQDw8uGwQdki3qhItiI9\nlzOJRtiO8nWDsKItC/JPW7DY2zxtp1+g5AciUbI6xwo/O664ea41qnPEfrmnNjZu\nzIwqgkTqGl2OAm1e17kwdjuAS+r+xwI0UmcCnGMR2WyIYqrp0giuK4mMjtniT+IB\nvxsujtoesVW1yppzcev8TlTWNQKBgQDGom/gQUSZVzspJe3ZgU732rb22sTs4672\nfZU1xmhacFSW8m9l31Gn0tPF22YZmFkMrNXUJDIek+Pij3UXvn23Uc5W/qr5U7Cf\nesgCWc6KTe6JUhxr6aD2nIVO+MIGl2LbG1OoP5y1+Jp3ZBOMj8So0GJcGfVvLyH9\nVT6GUkp+fwKBgQCm90fZgefbt/tZV4zmrS4zRHqwo+c2+GGJYavpvhoQS+vV+JPV\nw+4FpCMjg+Xf55Wtk/Raj+FlGoPAEVsq8Gd41Yi3yMlnrNrpTAeyQ1v8DZ+sKW+n\nnipvrrsgFVCWOflByh/lwZmxYxQtNTniB/HoE2mmtzAzp0/cC+eBkS5MuQKBgF9P\n3Gz4BImr0Mh62bmPkaveuAKVkP62deLy+aD3FmWnFv/jTs7MLKthv5pmH4TSlJA/\ncs87mw0PG78/5QjCsCJBz8fwpWvD27F6wfRW0YONx5L+4oJpdYJAMrtlI/zzsUy/\nvRGzjGfI5Z26WKMO7WevrjLRhfKW5DFiMQFVBUfTAoGARxWubbr+LihEr+ONMabi\nlnmv0CcNV19gEwc7Xunw3JszXqJ724hNuOdt3lp9m0JQnWBXoicPqwYgKKtV1V/R\nI0KjdP581HPxwCrbkGP8AtJdPttxQv2CIojx68SOJKb9PxTc9n8lXkXkKmjqzB/I\nToVVRZ42WXkzJnQGcOThUlo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-he1q3dsgjk18@thesnuslife-1699246872231.iam.gserviceaccount.com",
+  "client_id": "110529296858277515491",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-he1q3dsgjk18%40thesnuslife-1699246872231.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

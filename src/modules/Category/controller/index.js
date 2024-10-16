@@ -1,0 +1,9 @@
+module.exports.addCategory = require("./addCategory.controller");
+module.exports.deleteCategory = require("./deleteCategory.controller");
+module.exports.getCategoryList = require("./getCategoryList.controller");
+module.exports.getproductbycategory = require("./getProductbyCategory.controller");
+module.exports.priortizeBrand = require("./priortizeBrand.controller");
+module.exports.updateProductInCatogry = require("./updateProductInCategory.controller");
+module.exports.categoryGetById = require("./categoryGetById.controller");
+module.exports.getVatchargeByCategory = require("./getVatchargeByCategory.controller");
+module.exports.updateVatChargeByCategory = require("./updateVatChargeByCategory.controller");

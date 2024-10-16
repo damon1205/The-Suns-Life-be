@@ -1,0 +1,10 @@
+module.exports.addAddressController = require("./addAddress.controller");
+module.exports.removeAddressController = require("./removeAddress.controller");
+module.exports.getAddressByIdController = require("./getAddressById.controller");
+module.exports.getMyAllAddress = require("./getMyAllAddress.controller");
+module.exports.updateAddress = require("./updateAddress.controller");
+module.exports.updateOrderNotes = require("./updateOrderNotes.controller");
+module.exports.resetOrderNotes = require("./resetOrderNotes.controller");
+module.exports.updateAddressByAdmin = require("./updateAddressByAdmin.controller");
+module.exports.admingetAddressById = require("./admingetAddressById.controller");
+module.exports.adminAddaddress = require("./adminAddaddress.controller");

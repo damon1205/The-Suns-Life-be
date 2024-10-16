@@ -1,0 +1,9 @@
+module.exports.addBlog = require("./addBlog.controller");
+module.exports.getAllBlog = require("./getAllBlog.controller");
+module.exports.getAllBlogsPublic = require("./getAllBlogsPublic.controller");
+module.exports.getBlogByTitle = require("./getBlogByTitle.controller");
+module.exports.handleLike = require("./handleLike.controller");
+module.exports.removeBlog = require("./removeBlog.controller");
+module.exports.getBlogById = require("./getBlogByid.controller");
+module.exports.updateBlog = require("./updateBlog.controller");
+module.exports.updateBlogViews = require("./updateBlogViews.controller");

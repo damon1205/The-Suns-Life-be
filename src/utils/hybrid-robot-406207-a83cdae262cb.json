@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hybrid-robot-406207",
+  "private_key_id": "a83cdae262cb711da21616588f403606aab7b063",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVcOeHribpbQTQ\n6v45HgCJnfJR5DP4KcFGFnX41KgkdhcaIH5UKSJ5sXskNJPTxnn1kwNXaENqvWX8\nJK0kfXiHURpFTAQ/J6Shf9xS5VXwZ5/LsrRmzBSdCwhbIvocs6B/3Is42NEQOwbP\n84tk1xZRrgi9KUsushfIulrh19M8LgEOC6tLmRKJcpjpKwf6gcfz9r6w4AWJtEty\n/JxQAMPX+Vg9q/2ycQA/XpfbJRCma6q5kCrBV7nDLnpVHAxi6j3WwRJS/6LmK49m\nP2QGoNNoSdOnDWdhVk9p9Prod5Qof4SerVDiv1u8KYZBlzkfVSbj7EDMq3stZnIg\n9Intu7jzAgMBAAECggEACc5lWwlqA0JEoSLyeLQHzAAB0S7c3Cl9RcieiCwINpBL\nNsswDvy+BudHEdqjYq+w/BTgEMHGPsBb615KwEy9dn+zbh2tX6mNy40023myGHrs\nSPUakm5M4ftB2p0idXSyEQHbXukXWu3MpiOwn3bfv49ggm0twkwsdF8KLKy5b0bp\n3jrmQOPsuYwUKTTWEa/+lyzTwWLyCWrs4k0RiLEnSY5nJv3NTlACcWmc1xhiWFvo\n9mLRWyG+BBjQ82J1GSyQxAn3cgfYDVUTP1l89tO0KcnP63VaowOuWZ10pgmUX1ga\nIhNEf/Z63gmh5eA1tPtdOnYzx4Dee+PvqYn5ffpwGQKBgQDEmSTUPGClveg0OY2U\n+gB8ISD21n24Ud3g3DB87l+v8ilppu4pCDVuYzOXN3n6rLGGeneUkG5HtTDbB4NS\n/tID7zT76uUB/Xhk+YrE5EG0pn7DkDPMla0PBTgI0zztMCbziA1wwHcrOPIbKRac\n0dFAESXJucsLsvLPdn3AX22M+QKBgQDCmCf28v5ZPefPX3X3Pe8jdBnqIOIGAEU9\nTfe8lEa+yj1NXRdnETKBnRCldbqn7G/rvJ+zZHyt3C0A8mAdNii4EVoOIedAQT15\nZJiBeHgA39s2WYFKDb9+SPM4LXGDOmTNFP5P6ekDr9zKdYInQmi28YaMKgY06skk\n6h77UvXMSwKBgAaA6m768FeLSLsxjDV5b7qrfeOshMwsKSLfJdt8Jz4yzJvqIcbJ\ntrrIHVTLSQW54MWKF5qajItiuxMD1JxSQbBPoXkT9C90qx7sAmMxCdtoBpmBk7UY\n3ni4u3nPQxy1kxRLU+Z+93I+mAO+ADl/12Q/LPjXZJgme1HRoadTgNRBAoGBAIr7\n0c93TmK+7EoYjFDCU4Km8btfMQ/IMavPfBmcbcrm91HCI2zhw4j/fVwv8djt7iIY\n3pdqNgKXNy1t72ftvrd47TEa1ef2sMl7J9GREWTOfesbklQp7ZNs1wpQqrpngodX\nbyv0jRCtEq0nsIYJ0HCZoNeLTFOPPYq4DNjEL/pxAoGAYLj4c63rOXeaZwNoF0EG\nQeRzORZplkUoQJzwn8bPqiRTWhmGf/bkpz/19mQBW5nZf2dGqEpn+Z/edtyHeNzG\noZZo70x7iLXD151gs+9uQe1SV47NDqGJVegwjDD+vQUV/t4pT5frSYcx7PtbMuBv\nlSh6d51JJNPiHy9LMCvRloI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "snuslife-google-analytics@hybrid-robot-406207.iam.gserviceaccount.com",
+  "client_id": "116074353299094505544",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snuslife-google-analytics%40hybrid-robot-406207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

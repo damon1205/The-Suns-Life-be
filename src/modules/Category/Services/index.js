@@ -1,0 +1,9 @@
+module.exports.addCategory = require("./addCategory.services");
+module.exports.deleteCategory = require("./deleteCategory.services");
+module.exports.getCategoryList = require("./getCategoryList.services");
+module.exports.getproductbycategory = require("./getProductbyCategory.services");
+module.exports.priortizeBrand = require("./priortizeBrand.services");
+module.exports.updateProductInCatogry = require("./updateproductInCategory.services");
+module.exports.categoryGetById = require("./categoryGetById.service");
+module.exports.getVatchargeByCategory = require("./getVatchargeByCategory.service");
+module.exports.updateVatChargeByCategory = require("./updateVatChargeByCategory.service");

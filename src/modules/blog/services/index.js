@@ -1,0 +1,9 @@
+module.exports.addBlog = require("./addBlog.service");
+module.exports.getAllBlog = require("./getAllBlog.service");
+module.exports.getAllBlogsPublic = require("./getAllBlogsPublic.service");
+module.exports.getBlogByTitle = require("./getBlogByTitle.service");
+module.exports.handleLike = require("./handleLike.service");
+module.exports.removeBlog = require("./removeBlog.service");
+module.exports.getBlogByid = require("./getBlogByid.service");
+module.exports.updateBlog = require("./updateBlog.service");
+module.exports.updateBlogViews = require("./updateBlogViews.service");

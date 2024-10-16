@@ -1,0 +1,13 @@
+module.exports.addToCartController = require("./addtocart.controller");
+module.exports.getMyCartController = require("./getMyCart.controller");
+module.exports.removeFromCartController = require("./removeFromCart.controller");
+module.exports.removeCartController = require("./removeCart.controller");
+module.exports.checkProductAvailable = require("./checkProductAvailable.controller");
+module.exports.sentAbandonedCartMails = require("./sentAbandonedCartMails.controller");
+module.exports.nouseraddtocart = require("./nouseraddtocart.controller");
+module.exports.getMyCartByDevice = require("./getMyCartByDevice");
+module.exports.synccart = require("./synccart.controller");
+module.exports.mixaddtocart = require("./mixaddtocart.controller");
+module.exports.nousermixaddtocart = require("./nousermixaddtocart.controller");
+module.exports.nouserRemoveCart = require("./nouserRemoveCart.controller");
+module.exports.nouserRemoveFromCart = require("./nouserRemoveFromCart.controller");

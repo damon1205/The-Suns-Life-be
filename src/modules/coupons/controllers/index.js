@@ -1,0 +1,7 @@
+module.exports.addCoupon = require('./addCoupon.controller')
+module.exports.getAllCoupons = require('./getAllCoupon.controller')
+module.exports.deleteCoupon = require('./deleteCoupon.controller')
+module.exports.userCountIncrease = require('./userCountIncrease.controller')
+module.exports.applyCoupon = require('./applyCouponCode.controller')
+module.exports.getCouponByid = require('./getCouponByid.controller')
+module.exports.applyAutomaticDiscount = require('./applyAutomaticDiscount.controller')
